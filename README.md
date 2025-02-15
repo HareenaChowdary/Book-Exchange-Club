@@ -14,7 +14,7 @@ To get this project up and running locally on your machine, follow the steps bel
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/<your-username>/book-exchange-club.git
+git clone https://github.com/HareenaChowdary/Book-Exchange-Club.git
 cd book-exchange-club
 ```
 ### 2. Install Dependencies
