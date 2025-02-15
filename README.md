@@ -44,13 +44,13 @@ The app will be optimized and bundled for deployment.
 
 ### 💡 Features
 
-**Book Exchange System:** Search for books others are offering and list books you are willing to trade.
+**Book Exchange Club:** Search for books others are offering and list books you are willing to trade.
 
 **User Profiles:** Create a profile and manage the books you're offering and requesting.
 
 **Real-Time Updates:** See new book listings and requests in real time.
 
-**Responsive Design:** Fully responsive for web Application.
+**Responsive Design:** Fully responsive for web application.
 
 **Free and Open-Source:** No cost involved in exchanging books. The app is open-source and community-driven.
 
