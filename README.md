@@ -38,7 +38,7 @@ Ensure you have the following installed:
 ### Installation
 1. **Clone the repository**
    ```sh
-   
+   git clone https://github.com/HareenaChowdary/Book-Exchange-Club.git
    cd Book-Exchange-Club
    ```
 2. **Install backend dependencies**
