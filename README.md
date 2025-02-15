@@ -75,7 +75,7 @@ After building, the build/ folder will be ready for deployment on your favorite 
 For detailed information about deployment, refer to the Create React App Deployment Documentation.
 
 ### Deployment
-You can deploy the app using various services like Netlify, Vercel, or GitHub Pages. Just push the build folder to your repository or connect it to the deployment platform of your choice.
+You can deploy the app using various services like Netlify, Vercel, or GitHub Pages. Just push the build/ folder to your repository or connect it to the deployment platform of your choice.
 
 ### 🔧 Available Scripts
 In the project directory, you can run:
