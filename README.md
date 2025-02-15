@@ -43,16 +43,23 @@ The app will be optimized and bundled for deployment.
 ### 💡 Features
 
 **Book Exchange System:** Search for books others are offering and list books you are willing to trade.
+
 **User Profiles:** Create a profile and manage the books you're offering and requesting.
+
 **Real-Time Updates:** See new book listings and requests in real time.
+
 **Responsive Design:** Fully responsive for web Application.
+
 **Free and Open-Source:** No cost involved in exchanging books. The app is open-source and community-driven.
 
 ### ⚙️ Technologies Used
 
 **Frontend:** React, HTML5, CSS3
+
 **State Management:** React Hooks
+
 **Database:** MongoDB, MySQL
+
 **Development Tools:** Create React App, npm, yarn, bun, React Router
 
 ### 📈 Installation & Deployment
@@ -72,8 +79,11 @@ You can deploy the app using various services like Netlify, Vercel, or GitHub Pa
 In the project directory, you can run:
 
 **npm start:** Runs the app in development mode.
+
 **npm test:** Launches the test runner in watch mode.
+
 **npm run build:** Builds the app for production.
+
 **npm run eject:** Ejects the app to give you full control over the build configuration.
 
 ### 🌱 Contributing
