@@ -19,7 +19,9 @@ cd book-exchange-club
 ```
 ### 2. Install Dependencies
 Make sure you have Node.js installed. Then, run:
+```sh
 npm install
+```
 
 ### 3. Run the app
 To start the development server, run:
