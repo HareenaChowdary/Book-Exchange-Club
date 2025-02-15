@@ -1,7 +1,7 @@
 # Book Exchange Club
 
 ## Overview
-The **Book Exchange Club API** is a robust backend service designed for the **Book Exchange Club** web application. This API facilitates seamless book exchanges between users without monetary transactions, ensuring a structured and reliable system for managing book listings, user interactions, and exchange requests.
+The **Book Exchange Club** is a robust backend service designed for the **Book Exchange Club** web application. This API facilitates seamless book exchanges between users without monetary transactions, ensuring a structured and reliable system for managing book listings, user interactions, and exchange requests.
 
 ## Features
 - **Custom API**: Built with **Python Flask**, delivering essential book information such as title, author, description, and cover image in JSON format.
