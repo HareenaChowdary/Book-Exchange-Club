@@ -15,7 +15,7 @@ To get this project up and running locally on your machine, follow the steps bel
 ### 1. Clone the repository
 ```sh
 git clone https://github.com/HareenaChowdary/Book-Exchange-Club.git
-cd book-exchange-club
+cd Book-Exchange-Club
 ```
 ### 2. Install Dependencies
 Make sure you have Node.js installed. Then, run:
